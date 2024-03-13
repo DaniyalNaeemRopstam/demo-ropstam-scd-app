@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Sea Captain Date</string>
+    <string name="facebook_app_id">845303950386409</string>
+<string name="fb_login_protocol_scheme">fb845303950386409</string>
+<string name="facebook_client_token">e2bc85a78ec4a924468251d2867363dc</string>
+
+
+</resources>

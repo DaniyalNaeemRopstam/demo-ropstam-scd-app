@@ -1,0 +1,10 @@
+{
+  "extends": "@tsconfig/react-native/tsconfig.json",
+  "compilerOptions": {
+    // Various options...
+    "skipLibCheck": true
+  },
+  // Add the "include" array below
+  // Inside the array, specify files you want ESLint to check
+  "include": ["./**/*", "./*", ".eslintrc.js"]
+}

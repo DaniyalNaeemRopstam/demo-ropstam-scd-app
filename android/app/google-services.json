@@ -1,0 +1,62 @@
+{
+  "project_info": {
+    "project_number": "604403844826",
+    "project_id": "sea-captain-date-404223",
+    "storage_bucket": "sea-captain-date-404223.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:604403844826:android:c81d24feaa602c712a87e3",
+        "android_client_info": {
+          "package_name": "com.seacaptaindate"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "604403844826-hsso9adis74j2mf7mda1ulc7n8v91rer.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.seacaptaindate",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "604403844826-lh403m14kmludken5ijsvr5mde88vmj8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.seacaptaindate",
+            "certificate_hash": "13be6a0d7c4e2fb1e2c62b326b6b63d1bb7aa104"
+          }
+        },
+        {
+          "client_id": "604403844826-4fn4d32vjh1teq1tltnol6le2s2cs01u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDec0_4SXOehK-_ONAa61gK08X6yYXyrdQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "604403844826-4fn4d32vjh1teq1tltnol6le2s2cs01u.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "604403844826-k5mv5j238mcgao71297h5hc4b0cqnnkb.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.ropstam.scd"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
